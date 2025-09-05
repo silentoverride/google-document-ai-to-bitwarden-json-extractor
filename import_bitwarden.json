@@ -1,0 +1,123 @@
+{
+    "passwordHistory": [],
+    "revisionDate": "",
+    "creationDate": "",
+    "deletedDate": null,
+    "id": "",
+    "organizationId": "ba45389d-095e-4a90-8358-b16f0009445c",
+    "folderId": null,
+    "type": 4,
+    "reprompt": 0,
+    "name": "John Doe ID",
+    "notes": null,
+    "favorite": false,
+    "fields": [
+        {
+            "name": "DOB",
+            "value": "01/01/1990",
+            "type": 0,
+            "linkedId": null
+        },
+        {
+            "name": "Licence Type",
+            "value": "",
+            "type": 0,
+            "linkedId": null
+        },
+        {
+            "name": "Licence Card No",
+            "value": "",
+            "type": 0,
+            "linkedId": null
+        },
+        {
+            "name": "Licence Expiry",
+            "value": "",
+            "type": 0,
+            "linkedId": null
+        },
+        {
+            "name": "Licence Class",
+            "value": "",
+            "type": 0,
+            "linkedId": null
+        },
+        {
+            "name": "Licence Conditions",
+            "value": "",
+            "type": 0,
+            "linkedId": null
+        },
+        {
+            "name": "Licence State",
+            "value": "",
+            "type": 0,
+            "linkedId": null
+        },
+        {
+            "name": "Licence Back No",
+            "value": "",
+            "type": 0,
+            "linkedId": null
+        },
+        {
+            "name": "Licence Fee",
+            "value": "",
+            "type": 0,
+            "linkedId": null
+        },
+        {
+            "name": "Licence Back Class",
+            "value": "",
+            "type": 0,
+            "linkedId": null
+        },
+        {
+            "name": "Licence Back Conditions",
+            "value": "",
+            "type": 0,
+            "linkedId": null
+        },
+        {
+            "name": "Medicare No",
+            "value": "",
+            "type": 0,
+            "linkedId": null
+        },
+        {
+            "name": "Medicare Ref",
+            "value": "",
+            "type": 0,
+            "linkedId": null
+        },
+        {
+            "name": "Medicare Expiry",
+            "value": "",
+            "type": 0,
+            "linkedId": null
+        }
+    ],
+    "identity": {
+        "title": "",
+        "firstName": "John",
+        "middleName": "",
+        "lastName": "Doe",
+        "address1": "123 Main St, Anytown, USA",
+        "address2": null,
+        "address3": null,
+        "city": "",
+        "state": "",
+        "postalCode": "",
+        "country": null,
+        "company": null,
+        "email": null,
+        "phone": null,
+        "ssn": null,
+        "username": "",
+        "passportNumber": null,
+        "licenseNumber": ""
+    },
+    "collectionIds": [
+        "b872d15f-25c9-418b-ad75-b2ff009fe301"
+    ]
+}
