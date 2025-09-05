@@ -21,7 +21,7 @@ The primary function of this tool is to automate the transfer of personal identi
 1.  **Data Extraction**: The application sends a document to the Google Document AI API for processing. The API extracts relevant information based on the trained model.
 2.  **Generate `export.json`**: The extracted data is then saved locally as `export.json`.
 3.  **Populate Template**: The application reads the `export.json` file and the `bitwarden_id_template.json` file. It then maps the values from the export file to the corresponding fields in the template.
-4.  **Bitwarden Import File**: The populated template is saved as a new JSON file (e.g., `bitwarden_import.json`), which is ready to be imported into your Bitwarden vault.
+4.  **Bitwarden Import File**: The populated template is saved as a new JSON file (e.g., `import_bitwarden.json`), which is ready to be imported into your Bitwarden vault.
 
 ## Usage
 
